@@ -38,18 +38,6 @@ body {
 	font-weight: bold;
 }
 
-.mini-browser-1.content::after {
-      position: absolute;
-      right: 10px;
-      bottom: 220px;
-      content: url('basics/imagebrowser_02_thumb.jpg');
-}
-.mini-browser.content::after {
-      position: absolute;
-      right: 10px;
-      bottom: 275px;
-      content: url('basics/imagebrowser_02_thumb.jpg');
-}
 
 .mini-browser.content ul li {
 	width: 575px;
@@ -63,7 +51,7 @@ pre {
       position: absolute;
       right: 150px;
       top: 150px;
-      content: url('end/zoidberg.jpg');
+      content: url('https://github.com/CoMoRichWebGroup/git-in-practice/raw/master/zoidberg.jpg');
 }
 
 .ship-it h1 {
